@@ -343,9 +343,3 @@ concatenation = cv2.copyMakeBorder(concatenation, border_len, border_len,
 	border_len, border_len, cv2.BORDER_CONSTANT,value = 0)
 cv2.imwrite('concatenation.jpg', concatenation)
 ```
-[/spoiler]
-
-- get review from Andrei
-- get another review from Oana
-- write exercises and solutions
-- write summary
